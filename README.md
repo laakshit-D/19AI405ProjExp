@@ -13,7 +13,7 @@
 </ol>
 
 
-## PrograM:
+## Program:
 ```
 Developed by:
 NAME: LAAKSHIT D
